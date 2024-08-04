@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galaxy Clusters & Dark Matter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        header p {
+            margin: 0;
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+        nav {
+            display: flex;
+            justify-content: space-around;
+            background: #444;
+            color: #fff;
+            padding: 1rem 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0.5rem;
+        }
+        nav a:hover {
+            background: #555;
+        }
+        section {
+            padding: 2rem 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto 1rem;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Galaxy Clusters & Dark Matter</h1>
+        <p>Done by: Deepshika Karkera M. & Asma Yaseen Parker</p>
+    </header>
+    <nav>
+        <a href="#introduction">Introduction</a>
+        <a href="#theory">Theory</a>
+        <a href="#applications">Applications</a>
+        <a href="#data-analysis">Data Analysis</a>
+        <a href="#results">Results</a>
+        <a href="#conclusion">Conclusion</a>
+        <a href="#references">References</a>
+    </nav>
+    <div class="container">
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p> Galaxy clusters are one of the largest known gravitationally bound structures of the universe, consisting of hundreds to thousands of galaxies. For instance, the Coma cluster houses over a thousand individual galaxies and stretches over twenty million light-years across. These clusters are building blocks for larger structures such as superclusters, galaxy filaments, etc. Knowing a cluster’s composition is one of the key aspects to understanding its formation & evolution. They are composed of two basic types of matter: baryonic matter (that consists of luminous non-luminous matter) and dark matter. Few still question the legitimacy of the presence of Dark matter, since it cannot be directly observed but, its presence is inferred from its gravitational effects on the visible matter in galaxy clusters.</p>
+            <img src="https://chandra.harvard.edu/photo/2023/elgordo/elgordo_525.jpg">
+<p><center>El Gordo – the largest galaxy cluster discovered as of now</center></p>
+        </section>
+        <section id="theory">
+            <h2>Theory</h2>
+            <h3>Galaxy Clusters</h3>
+            <p>Galaxy clusters are the largest objects in the universe that are held together by their gravity. They contain hundreds or thousands of galaxies, lots of hot plasma, and a large amount of invisible dark matter. </p>
+            <p>Galaxy clusters gather into superclusters, arranged on the surface of enormous bubbles surrounding low-density regions known as voids.
+</p>
+            <p><strong>Structure of Galaxy Clusters: </strong> </p>
+            <p>Galaxy clusters primarily consist of luminous matter and dark matter. To one’s surprise, stars and  gas make up only 5 per cent of the total mass, whereas hot plasma forms the Intracluster Medium (ICM) to make up 15 per cent of the total. Dark matter makes up a total of 80 per cent of the cluster, it acts as a bind and holds everything in place – together.
+            <p><strong>Properties of Galaxy Clusters: </strong> </p>
+            <p><strong> 1. Mass & Size: </strong> Typical galaxy clusters have masses ranging from a hundred trillion to a quadrillion solar masses and span several million light-years across, typically within a radius of 1-2 megaparsecs. </p>
+            <p><strong> 2. Temperature: </strong>The ICM has temperatures ranging from 10^7 to 10^8 degrees, hot enough to emit X-rays. </p>
+            <p><strong> 3. Gravitational Lensing: </strong>The galaxy cluster produces enough gravity to bend the path of light passing by, this bending is called gravitational lensing. This effect is used to map the distribution of dark matter within the cluster. </p>
+            <p><strong> 4. X-ray Emission: </strong>Large clusters of galaxies exhibit X-ray emission from the hot ICM. It emits X-rays via thermal bremsstrahlung radiation, with a typical luminosity of around 10^44 erg/s. </p>
+            <p><strong> 5. Change very slowly, </strong>and retain imprints of how they were formed. Clusters hold onto the gas in their systems which implies that clusters are closed systems.</p>
+            <p><strong> Formation and Evolution of Galaxy Clusters:</strong></p>
+            <p>Matter collapses under the gravitational influence of dark matter through a relatively slow process, with initial fluctuations gradually growing and evolving over billions of years to form the galaxy clusters we observe today. Dark matter acts as the gravitational framework for the formation of galaxy clusters, it forms a web-like structure where clusters can be found at the intersections of the dark matter filaments. </p>
+            <p>Over time, as a result of motion, galaxies collide and merge within the clusters which causes hot gas to fill the space between them and form the intracluster medium (ICM). Such merging can be seen on a larger scale; small clusters combine to create bigger ones, this ‘merging’ is called Hierarchical Merging. This is one of the most prominent processes of  the evolution of clusters. As clusters continue merging with other clusters, turbulence is caused in the ICM, leading to the acceleration of particles and the formation of radio relics. Small dark matter halos merge and accumulate mass, also leading to the formation of galaxy clusters. </p>
+            <img src="https://phys.libretexts.org/@api/deki/files/22182/figure1213.jpg">
+<p><center>Simulation of the formation of a group of galaxies</center></p>
+            <h3>Dark Matter</h3>
+            <p>A form of matter that does not emit, absorb, or reflect light, making it invisible to current electromagnetic observational methods. Its presence is known from gravitational attraction rather than luminosity. </p>
+            <img src="https://www.nasa.gov/wp-content/uploads/2023/03/perseus_xray_optical_radio.jpg">
+<p><center>Dark matter (in blue) in the Perseus cluster</center></p>
+            <p><strong>Dark Matter in Galaxy Clusters:</strong></p>
+            <p>Galactic dark matter exists in the halo that envelops the ordinary matter within a galaxy. While galactic dark matter is present throughout the cluster, each galaxy cluster possesses its own dark matter, which collectively outweighs the dark matter in individual halos. This dark matter within the cluster influences the motion of distinct galaxies and the intracluster medium (ICM).</p>
+            <p><strong>Evidence of Existence:</strong></p>
+            <p>Dark matter does not interact through electromagnetism, and scientists detect its presence by its gravitational effect on luminous matter. Its presence can be confirmed by:</p>
+            <p><strong>Galactic Rotational Curves:</strong></p>
+            <p>a. Evidence of dark matter has been confirmed through the study of rotation curves.In the 1930s, a scientist named Fritz Zwicky determined the Doppler shifts of galaxies within the Comet cluster. </p>
+            <p>b. He found that the mass required to hold the cluster together was about ten times greater than the mass that could be observed in the form of visible light (luminous matter). </p>
+            <p>c. This excess mass was termed as ‘missing mass’ which was later renamed to ‘dark matter’. </p>
+            <p><strong>Cosmic Microwave Background (CMB):</strong></p>
+            <p>a. CMB is a ‘fossil’ radiation that contains the remnants of the first light that ever travelled freely through the Universe.</p>
+            <p>b. The fluctuations in the CMB helped astronomers determine that dark matter is about 27 per cent of the universe. </p>
+            <p>c. Dark matter provides most of the mass, and baryonic matter is attracted to it via gravity</p>
+            <p><strong>Bullet Cluster shows evidence of dark matter.</strong></p>
+        </section>
+        <section id="applications">
+            <h2>Applications</h2>
+            <p><strong>1. Sunyaev-Zel’dovich Effect:</strong> When light from the CMB passes through a galaxy cluster, it picks up some energy from the electrons in the hot plasma. The energy in the light disappears from the CMB, so a galaxy cluster seems to be a ‘hole’. This property of galaxy clusters is called the Sunyaev-Zel’dovich effect.It helps:</p>
+            <p>		• helps astronomers identify galaxy clusters even if they’re too far or faint. </p>
+            <p>		• helps astronomers map out the universe's cosmic web structure of galaxies, clusters, and other matter.</p>
+            <p><strong>2. Gravitational Lensing:</strong> Occurs when a galaxy cluster causes a sufficient curvature of spacetime for the path of light around it to be visibly bent (similar to a lens). It:</p>
+            <p>		• turns galaxy clusters into giant telescopes which helps magnify galaxies that would be too faint for astronomers to identify. </p>
+            <p>		• reveals most mass of the cluster is located around the galaxies, not in the centre where hot gas resides.</p>
+        </section>
+        <section id="data-analysis">
+            <h2>Data Analysis</h2>
+            <p><strong>Dark Matter in Bullet Cluster (1E 0657-56): </strong>Elaborating on the 3rd point under ‘Evidence of Dark Matter’, the Bullet Cluster is said to be one of the greatest evidence of the existence of Dark Matter.</p>
+            <p>Cluster 1E 0657-56 – also known as Bullet cluster – located in the Carina Constellation, is 3.8 billion light-years away from the Earth. It is the result of the collision of two clusters that moved right past each other. </p>
+            <p>X-rays show that the majority of normal matter (hot gas) is in a different location than dark matter. The normal matter is said to lag behind the dark matter because, during the collision, the luminous matter collided first, whereas the dark matter sailed past without interacting at all</p>
+            <img src="https://viewspace.org/assets/interactives/live/dark_matter/bullet_cluster/bullet-cluster-stop4-outline@1x-23034f536bcc3b54a381464956d793a884115fb35450af5ad36c3eee44b49bad.jpg">
+<p><center>Dark matter (in blue) and hot gas (in red) in the Bullet Cluster</center></p>
+        </section>
+        <section id="results">
+            <h2>Results</h2>
+            <p>Normal matter is said to lag behind dark matter because, during the collision, the luminous matter collided first, whereas the dark matter sailed past without interacting at all. The cluster proved that <strong>dark matter does not interact with normal matter or itself.</strong></p>
+        </section>
+        <section id="conclusion">
+            <h2>Conclusion</h2>
+            <p>The study of galaxy clusters and the evidence for dark matter has significantly advanced our understanding of the universe's structure and composition. Through observations of phenomena such as galaxy rotation curves, gravitational lensing, and the dynamics of galaxy clusters, it has become evident that a substantial amount of the universe's mass is invisible and does not interact with light. This mysterious component, known as dark matter, plays a crucial role in shaping the formation and evolution of galaxies and galaxy clusters.</p>
+        </section>
+        <section id="references">
+            <h2>References</h2>
+            <p> Large Scale Structures - NASA Science:
+https://science.nasa.gov/universe/galaxies/large-scale-structures/ </p>
+            <p> Galaxy Clusters | Center for Astrophysics | Harvard & Smithsonian:
+https://www.cfa.harvard.edu/research/topic/galaxy-clusters </p>
+            <p> Clusters of Galaxies:
+https://imagine.gsfc.nasa.gov/science/objects/clusters.html </p>
+            <p> Cluster of galaxies | Galactic Structure, Formation & Evolution | Britannica:
+https://www.britannica.com/science/cluster-of-galaxies </p>
+            <p> Model of Intracluster Medium:
+https://iopscience.iop.org/article/10.1086/306530/fulltext/38378.text.html#:~:text=The%20gas%20component%20is%20called,the%20electrons%20(Sarazin%201988) </p>
+            <p> 2209.09951 (arxiv.org):
+https://arxiv.org/pdf/2209.09951 </p>
+            <p> Formation of Galaxy Clusters - NASA/ADS:
+https://ui.adsabs.harvard.edu/abs/2012ARA%26A..50..353K/abstract </p>
+            <p>Dark Energy and Dark Matter | Center for Astrophysics | Harvard & Smithsonian:
+https://www.cfa.harvard.edu/research/topic/dark-energy-and-dark-matter </p>
+            <p> Rotation Curves:
+https://www.cfa.harvard.edu/research/topic/dark-energy-and-dark-matter </p>
+            <p> The Cosmic Microwave Background Radiation:
+https://aether.lbl.gov/www/science/cmb.html </p>
+            <p> Cosmic Microwave Background | Center for Astrophysics | Harvard & Smithsonian:
+https://www.cfa.harvard.edu/research/topic/cosmic-microwave-background </p>
+            <p> The Sunyaev–Zel’dovich effect - ScienceDirect:
+https://www.sciencedirect.com/science/article/abs/pii/S0370157398000805 </p>
+            <p> 2309.04380 (arxiv.org):
+https://arxiv.org/pdf/2309.04380 </p>
+            <p> Detailed Dark Matter Map Yields Clues to Galaxy Cluster Growth - NASA Science:
+https://science.nasa.gov/missions/hubble/detailed-dark-matter-map-yields-clues-to-galaxy-cluster-growth/ </p>
+            <p> JAXA | Probing the Evolution of the Universe with Galaxy Clusters:
+https://global.jaxa.jp/article/special/astro_h/kitayama01_e.html </p>
+            <p> Clusters and Superclusters of Galaxies:
+https://ned.ipac.caltech.edu/level5/Sept01/Bahcall2/frames.html </p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Galaxy Clusters & Dark Matter. All rights reserved.</p>
+    </footer>
+</body>
+</html>
