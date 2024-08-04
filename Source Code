@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Galaxy Clusters & Dark Matter</title>
+    <title>AstroVerse</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -66,8 +66,8 @@
 </head>
 <body>
     <header>
-        <h1>Galaxy Clusters & Dark Matter</h1>
-        <p>Done by: Deepshika Karkera M. & Asma Yaseen Parker</p>
+        <h1>AstroVerse</h1>
+        <p>Galaxy Clusters & Dark Matter</p>
     </header>
     <nav>
         <a href="#introduction">Introduction</a>
@@ -185,6 +185,7 @@ https://ned.ipac.caltech.edu/level5/Sept01/Bahcall2/frames.html </p>
     </div>
     <footer>
         <p>&copy; 2024 Galaxy Clusters & Dark Matter. All rights reserved.</p>
+<p>Done by: Deepshika Karkera M. & Asma Parker Y.</p>
     </footer>
 </body>
 </html>
